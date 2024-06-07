@@ -1,1 +1,1 @@
-# Bank-Loan-Project-SQL-PowerBi
+# Bank Loan Project (SQL & PowerBi)
